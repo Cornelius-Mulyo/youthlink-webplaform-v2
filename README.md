@@ -34,9 +34,9 @@ The platform allows users to add opportunities, upload related documents, and ma
 
 The main dashboard allows users to browse opportunities, search using keywords, and filter opportunities by category.
 
-*(Insert homepage screenshot below this line when editing the README on GitHub)*
-
----
+<img width="1920" height="371" alt="SnapshotDemo3" src="https://github.com/user-attachments/assets/93839840-7aec-46b0-bd03-c0afa85d2618" />
+<img width="1556" height="908" alt="SnapshotDemo2" src="https://github.com/user-attachments/assets/42becf28-6cad-4762-901b-2e9fd6424fc8" />
+<img width="1372" height="892" alt="SnapshotDemo1" src="https://github.com/user-attachments/assets/e8386bac-bd27-42c9-9cc7-536ff670e13a" />
 
 ### Add Opportunity Page
 
@@ -61,3 +61,4 @@ The file manager enables users to upload files, preview them, download them, and
 - Deploy the application to a cloud platform
 - Improve the user interface and user experience
 - Add role-based permissions for managing opportunities
+
